@@ -1,3 +1,4 @@
 description: "Seguidor de Linea - Robot E-puck"
+type: simulation
 worlds:
   - worlds/line_follower.wbt
