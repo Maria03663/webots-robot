@@ -3,3 +3,4 @@ type: demo
 worlds:
   - worlds/line_follower.wbt
 publish: true
+
